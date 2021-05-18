@@ -1,27 +1,27 @@
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\domain\implementation\ReceivedCall.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\service\GeneralServiceInterface.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\service\implementation\DescriptionService.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\repository\DescriptionRepository.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\domain\GeneralModelInterface.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\domain\implementation\PersonInformationReport.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\controller\implementation\DescriptionController.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\controller\implementation\CrewAcceptedController.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\domain\implementation\EmergencyDetails.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\service\implementation\GeneralService.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\controller\implementation\EmergencyDetailsController.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\repository\CrewAcceptedRepository.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\service\implementation\ReceivedCallService.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\controller\GeneralControllerInterface.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\service\implementation\EmergencyDetailsService.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\controller\implementation\PersonInformationReportController.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\domain\implementation\CrewAccepted.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\controller\implementation\ReceivedCallController.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\controller\implementation\GeneralController.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\SpringProjectDbLab6Application.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\repository\PersonInformationReportRepository.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\service\implementation\CrewAcceptedService.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\repository\EmergencyDetailsRepository.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\repository\ReceivedCallRepository.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\config\SwaggerConfiguration.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\service\implementation\PersonInformationReportService.java
-C:\Files\University\2_course\Semester_2\Operation Systems\spring-project-db-lab-6-master\src\main\java\com\spring\project\lab\domain\implementation\Description.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/domain/implementation/CrewAccepted.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/controller/implementation/EmergencyDetailsController.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/service/implementation/DescriptionService.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/domain/implementation/PersonInformationReport.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/controller/implementation/DescriptionController.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/controller/implementation/ReceivedCallController.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/service/implementation/CrewAcceptedService.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/repository/ReceivedCallRepository.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/service/implementation/GeneralService.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/controller/GeneralControllerInterface.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/service/implementation/PersonInformationReportService.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/domain/GeneralModelInterface.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/repository/PersonInformationReportRepository.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/service/implementation/ReceivedCallService.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/service/implementation/EmergencyDetailsService.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/domain/implementation/Description.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/domain/implementation/ReceivedCall.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/repository/EmergencyDetailsRepository.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/config/SwaggerConfiguration.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/domain/implementation/EmergencyDetails.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/controller/implementation/GeneralController.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/service/GeneralServiceInterface.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/controller/implementation/CrewAcceptedController.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/controller/implementation/PersonInformationReportController.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/repository/DescriptionRepository.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/repository/CrewAcceptedRepository.java
+/home/illya_fedyniak/Lab-5/src/main/java/com/spring/project/lab/SpringProjectDbLab6Application.java
